@@ -39,6 +39,7 @@ IEEE Trans. on Pattern Analysis and Machine Intelligence, 40(1):20-33, 2018
 IEEE CVPR, pp. 3395-3402, 2015
 
 ========================================================================
+
 Any comments, please email:
 wenguanwang.china@gmail.com
 or shenjianbingcg@sina.com

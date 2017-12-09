@@ -1,11 +1,13 @@
-# Keras Implementation (v1) for
+Keras Implementation (v1) for
 
-Deep Learning For Video Saliency Detection, IEEE TIP 2018
+Deep Learning For Video Saliency Detection,
+IEEE Trans. on Image Processing, 27(1):38-49, 2018
 By Wenguan Wang and Jianbing Shen and Ling Shao
 
 ========================================================================
-# The model weights and results on DAVIS and FBMS datasets can be downloaded
+Please install keras first
 
+The model weights and results on DAVIS and FBMS datasets can be downloaded
 from Baidu Wangpan:
 link: https://pan.baidu.com/s/1dE22MFR 
 password: jmph

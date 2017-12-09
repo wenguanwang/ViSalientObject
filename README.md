@@ -40,5 +40,5 @@ IEEE CVPR, pp. 3395-3402, 2015
 ========================================================================
 Any comments, please email:
 wenguanwang.china@gmail.com
-shenjianbingcg@sina.com
-shenjianbingcg@gmail.com
+or shenjianbingcg@sina.com
+or shenjianbingcg@gmail.com

@@ -10,8 +10,9 @@ By Wenguan Wang and Jianbing Shen and Ling Shao
 Please install keras first
 
 The model weights and results on DAVIS and FBMS datasets can be downloaded
-from Baidu Wangpan:
-link: https://pan.baidu.com/s/1dE22MFR 
+from 
+
+Baidu Wangpan:https://pan.baidu.com/s/1dE22MFR 
 password: jmph
 
 or from google drive:
@@ -20,6 +21,7 @@ https://drive.google.com/drive/u/0/folders/1mc6nnr8RrMZwAXjV0XS9Hv7QJE4quvkx
 Please put the models under the folder 'videosalientobjectdetection' and run main.py.
 
 Our results (MAE) are sightly improved over the original scores reported in our paper:
+
 DAVIS: 0.0587
 FBMS:  0.0619
 
@@ -46,5 +48,3 @@ IEEE CVPR, pp. 3395-3402, 2015
 
 Any comments, please email:
 wenguanwang.china@gmail.com
-or shenjianbingcg@sina.com
-or shenjianbingcg@gmail.com

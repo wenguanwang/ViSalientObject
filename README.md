@@ -1,6 +1,6 @@
 Keras Implementation (v1) for
 
-#Video salient object detection via fully convolutional networks,
+Video salient object detection via fully convolutional networks,
 IEEE Trans. on Image Processing, 27(1):38-49, 2018
 
 By Wenguan Wang and Jianbing Shen and Ling Shao

@@ -7,7 +7,7 @@ IEEE Trans. on Image Processing, 27(1):38-49, 2018
 
 
 
-By [Wenguan Wang](https://sites.google.com/site/wenguanwangwwg/) and Jianbing Shen and Ling Shao
+By [Wenguan Wang](https://sites.google.com/view/wenguanwang) and Jianbing Shen and Ling Shao
 
 
 

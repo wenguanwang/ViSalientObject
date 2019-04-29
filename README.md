@@ -95,7 +95,15 @@ IEEE CVPR, pp. 3395-3402, 2015
 
 ========================================================================
 
+See my new work in related areas:
 
+[(ECCV18)](https://github.com/shenjianbing/PDB-ConvLSTM)Pyramid Dilated Deeper ConvLSTM for Video Salient Object Detection, 
+
+[(CVPR19)](https://github.com/wenguanwang/AGS) Learning Unsupervised Video Object Segmentation through Visual Attention,
+
+(CVPR19 Oral, coming soon) Shifting More Attention to Video Salient Object Detection.
+
+========================================================================
 
 Any comments, please email:
 wenguanwang.china@gmail.com

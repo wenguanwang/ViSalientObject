@@ -2,7 +2,7 @@ Keras Implementation (v1) for
 
 
 
-Video salient object detection via fully convolutional networks,
+[Video salient object detection via fully convolutional networks,](https://www.researchgate.net/publication/319950992_Video_Salient_Object_Detection_via_Fully_Convolutional_Networks)
 IEEE Trans. on Image Processing, 27(1):38-49, 2018
 
 

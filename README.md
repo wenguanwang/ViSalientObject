@@ -101,7 +101,7 @@ See my new work in related areas:
 
 [(CVPR19)](https://github.com/wenguanwang/AGS) Learning Unsupervised Video Object Segmentation through Visual Attention,
 
-(CVPR19 Oral, coming soon) Shifting More Attention to Video Salient Object Detection.
+[(CVPR19 Oral, coming soon)](https://github.com/wenguanwang/DAVSOD) Shifting More Attention to Video Salient Object Detection.
 
 ========================================================================
 
